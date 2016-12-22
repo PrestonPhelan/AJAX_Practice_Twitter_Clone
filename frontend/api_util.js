@@ -25,7 +25,8 @@ const APIUtil = {
       },
       success: success
     })
-  )
+  ),
+
 };
 
 module.exports = APIUtil;
